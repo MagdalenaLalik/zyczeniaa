@@ -1,0 +1,30 @@
+body {
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: honeydew;
+    color: black;
+    text-align: center;
+    font-size: 150%;    
+}
+
+#sekcje {
+    width: 95%;
+    margin: auto;
+}
+
+footer {
+    background-color: honeydew;
+    color: black;
+    text-align: center;
+    font-size: 150%;
+    padding: 10px;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
